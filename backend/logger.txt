@@ -1,0 +1,62 @@
+04/05/2023, 20:48:08 	 Route / not exist
+-------------------------------
+06/05/2023, 21:51:05 	 Route /api/target-audience not exist
+-------------------------------
+06/05/2023, 21:51:06 	 Route /api/target-audience not exist
+-------------------------------
+06/05/2023, 21:51:10 	 Route /target-audience not exist
+-------------------------------
+06/05/2023, 21:51:11 	 Route /target-audience not exist
+-------------------------------
+06/05/2023, 21:51:26 	 Route /target-audience not exist
+-------------------------------
+06/05/2023, 21:52:17 	 Route /api/target-audience not exist
+-------------------------------
+06/05/2023, 21:52:18 	 Route /api/target-audience not exist
+-------------------------------
+06/05/2023, 21:52:28 	 Route /api/target-audience not exist
+-------------------------------
+06/05/2023, 21:53:37 	 Route /api/target-audience not exist
+-------------------------------
+06/05/2023, 21:54:25 	 Route /apitarget-audience not exist
+-------------------------------
+06/05/2023, 21:55:29 	 Route /apitarget-audience not exist
+-------------------------------
+06/05/2023, 21:55:35 	 Route /api/target-audience not exist
+-------------------------------
+06/05/2023, 21:56:09 	 Route /api/target-audience not exist
+-------------------------------
+06/05/2023, 22:06:14 	 Route /api/1 not exist
+-------------------------------
+06/05/2023, 22:06:44 	 Route /api/1 not exist
+-------------------------------
+06/05/2023, 22:06:51 	 Route /api/target-audience not exist
+-------------------------------
+06/05/2023, 22:07:10 	 Route / not exist
+-------------------------------
+06/05/2023, 22:07:18 	 Route /target-audience not exist
+-------------------------------
+06/05/2023, 22:08:50 	 Route /api//gifts-per-target-audience/1 not exist
+-------------------------------
+06/05/2023, 22:08:56 	 Route /api/gifts-per-target-audience/1 not exist
+-------------------------------
+06/05/2023, 22:11:19 	 Route /api/gifts-per-target-audience/1 not exist
+-------------------------------
+06/05/2023, 22:11:31 	 Route /api/target-audience not exist
+-------------------------------
+06/05/2023, 22:13:06 	 Route /api/target-audience not exist
+-------------------------------
+06/05/2023, 22:15:26 	 Route /api/target-audience not exist
+-------------------------------
+06/05/2023, 22:15:27 	 Route /api/target-audience not exist
+-------------------------------
+06/05/2023, 22:16:06 	 Route /api/target-audience not exist
+-------------------------------
+06/05/2023, 22:16:07 	 Route /api/target-audience not exist
+-------------------------------
+06/05/2023, 22:16:08 	 Route /api/target-audience not exist
+-------------------------------
+06/05/2023, 22:16:22 	 Route /api/target-audience not exist
+-------------------------------
+06/05/2023, 22:16:23 	 Route /api/target-audience not exist
+-------------------------------
